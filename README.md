@@ -1,2 +1,2 @@
 # computer-science-ITC-and-programming
-IT studies
+<h1 align=center>IT studies</h1>

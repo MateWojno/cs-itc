@@ -78,7 +78,9 @@ naukowa 1e + 3 => 1 * 10^3, cecha i mantysa;
 - zupelnie odwrotna kolejnosc odczytu bitow
 
 # `reprezentacja zmiennej w pamieci `
-*   deklarowanie zmiennych;
+
+
+#   `deklarowanie zmiennych`
 - <typ> <nazwa> [wartosc][, <nazwa>...];
 - przyklady:
   * int liczba = 3;
@@ -99,3 +101,13 @@ naukowa 1e + 3 => 1 * 10^3, cecha i mantysa;
   * 's', '$';
 - łancuchowe:
   * "napis przykladowy"
+
+`co do zasady typ zmiennej mozna modyfikowac bez szkody dla zmiennej`;
+
+# `Autodeklaracja zmiennych:`
+*     Jezyk           instrukcja
+-     C#              var;
+-     C++             auto;
+-     Kotlin          var; val=niezmienna wartosc od value;
+-     Python          robi to samodzielnie;
+

@@ -72,3 +72,7 @@ naukowa 1e + 3 => 1 * 10^3, cecha i mantysa;
 
 * LSB   - least significant bite
 * MSB   - most significant bite
+
+* Kolejnosc bitow - `Big Endian & Little Endian`; 
+# https://chortle.ccsu.edu/assemblytutorial/Chapter-15/ass15_3.html
+- zupelnie odwrotna kolejnosc odczytu bitow

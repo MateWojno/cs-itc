@@ -102,7 +102,7 @@ naukowa 1e + 3 => 1 * 10^3, cecha i mantysa;
 - łancuchowe:
   * "napis przykladowy"
 
-`co do zasady typ zmiennej mozna modyfikowac bez szkody dla zmiennej`;
+* `co do zasady typ zmiennej mozna modyfikowac bez szkody dla zmiennej`;
 
 # `Autodeklaracja zmiennych:`
 *     Jezyk           instrukcja
@@ -111,3 +111,68 @@ naukowa 1e + 3 => 1 * 10^3, cecha i mantysa;
 -     Kotlin          var; val=niezmienna wartosc od value;
 -     Python          robi to samodzielnie;
 
+# `Operatory:`
+*     Operacja           Notacja
+-     dodawanie          +
+-     odejmowanie        -
+-     mnozenie           *
+-     dzielenie          /
+-     reszta(modulo)     %
+-     inkrementacja      ++
+-     przypisania        =        :
+                        +=        z powiekszeniem;
+                        -=        z pomniejszeniem;
+-     rowna sie (equal) ==
+
+
+
+# `C# VsCode - file>autosave`
+-   program do skompilowania musi byc poprawny;
+-   jezeli jest blad, nie uda sie skompilowac;
+-   czasami zglasza ostrzezenie a nie blad;
+-   ctrl + /  - do komentowania w C#; - lepsze niz ctrl+k ctrl+c (dziala w obie strony);
+-   przejscie do trybu lancuchowego (string) powoduje ze consola przerobi do ciagu znakow wszystko co wpiszemy, np. Console.WriteLine("Suma to: " + suma + 2); gdy suma = 7 wynik wyjdzie jako string "Suma to: 72"
+-   nawiasy;
+-   dzielenie w zmiennoprzecinkowych to trzeba dzielnik zapisac zmiennoprzecinkowo  np. 5 / 2.0;
+-   modulo tez zadziala na zmiennoprzecinkowych w C#;
+
+# `Kod napisany dzisiaj w C#`
+*     Proste           Operacje     Na    Zmiennych
+-     // string a    =   "Hello";
+-     // string b    =   " World!";
+-     // string c    =   a + b;
+
+
+-     // var a    =   "Hello" ;
+-     // var b    =   3 ;
+-     // var c    =   a + b;
+-     
+-     // Console.WriteLine(c);
+-     
+-     // var suma = 3 + 4;
+-     // var roznica = 5 -2;
+-     // Console.WriteLine(suma);
+-     // Console.WriteLine(roznica);
+-     
+-     
+-     // var suma = 3 + 4;
+-     // var roznica = "5" - "2";  to sie nie uda;
+-     // Console.WriteLine("Suma to: " + suma/2.0);
+-     // Console.WriteLine(roznica); to sie nie uda;
+-     // Console.WriteLine("Suma to: " + suma % 2.0);
+-     
+-     // var a = 3;
+-     // var b = a++;
+-     // // ++ za a powoduje, ze b=3 a=4, zapis ++a to bedzie odwrotnie;
+-     // Console.WriteLine(b);
+-     
+-     
+-     // var a = 9993123123123122222;
+-     // var b = 222222222222222.0; // bez zera nie pojdzie;
+-     
+-     // Console.WriteLine(a/b);
+-     
+-     var y = 20;
+-     y -= 10; //od y odejmujemy 10;
+-     
+-     

@@ -76,3 +76,26 @@ naukowa 1e + 3 => 1 * 10^3, cecha i mantysa;
 * Kolejnosc bitow - `Big Endian & Little Endian`; 
 # https://chortle.ccsu.edu/assemblytutorial/Chapter-15/ass15_3.html
 - zupelnie odwrotna kolejnosc odczytu bitow
+
+### `reprezentacja zmiennej w pamieci `
+*   deklarowanie zmiennych;
+- <typ> <nazwa> [wartosc][, <nazwa>...];
+- przyklady:
+  * int liczba = 3;
+  * char znak = 'x';
+  * int x, y, z;
+  * float x1 = 1.3;
+
+* przy podawaniu wartosci - literały:
+- całkowite:
+  * dziesietne;
+  * osemkowe;
+  * szesnastkowe;
+- rzeczywiste:
+  * 3.141231231;
+  * 3.2E+23;
+  * 7.5D, 3.3F;
+- znakowe:
+  * 's', '$';
+- łancuchowe:
+  * "napis przykladowy"

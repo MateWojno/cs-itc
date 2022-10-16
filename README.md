@@ -16,10 +16,10 @@
 
 # `assets`
 
-obj             - wynik dzialania kompilatora;
-bin             - kompilacja
-prelaunch task  - build (buduje przed run)
-.vscode         - json config;
+-   obj             - wynik dzialania kompilatora;
+-   bin             - kompilacja
+-   prelaunch task  - build (buduje przed run)
+-   .vscode         - json config;
 
 # `entry point`
 

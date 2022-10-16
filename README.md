@@ -136,6 +136,11 @@ naukowa 1e + 3 => 1 * 10^3, cecha i mantysa;
 -   dzielenie w zmiennoprzecinkowych to trzeba dzielnik zapisac zmiennoprzecinkowo  np. 5 / 2.0;
 -   modulo tez zadziala na zmiennoprzecinkowych w C#;
 
+#   `Instrukcja if else`
+-   if {warotsc logiczna} <instrukcja_prawda>;
+esle <instrukcja_falsz>
+-   w C# whitespace sie nie liczy;
+
 # `Kod napisany dzisiaj w C#`
 *     Proste           Operacje     Na    Zmiennych
 -     // string a    =   "Hello";
@@ -174,5 +179,17 @@ naukowa 1e + 3 => 1 * 10^3, cecha i mantysa;
 -     
 -     var y = 20;
 -     y -= 10; //od y odejmujemy 10;
+
+
+-     Console.Write("Podaj swoj wiek: "); //pyta o input;
 -     
+-     var wiek = Console.ReadLine();
+-     int wiekLiczba = int.Parse(wiek);
+-     if (wiekLiczba >= 18) {
+-         Console.WriteLine ("Masz dostep do programu");
+-     }
+-     else {
+-         Console.WriteLine("Jestes za mlody");
+-     }
 -     
+-     //do poprawki

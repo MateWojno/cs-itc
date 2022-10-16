@@ -1,6 +1,6 @@
 <h1 align=center>computer-science-ITC-and-programming</h1>
 <h1 align=center>IT studies</h1>
-
+<!-- <link rel="stylesheet" href=""> will it work? -->
 <h1 align=center>Programowanie z elementami algorytmiki, zajecia #1</h1>
 
 # `extensions:`

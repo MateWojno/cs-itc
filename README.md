@@ -60,7 +60,7 @@
 -         char      2 bajty (16 bit)  jeden znak, - w dotnet to 2 bajty a nie 1;
 -         string    (2 bajty na znak - 16 bit) - sekwencje znakow (kody ASCII) 
 
-### `notacja liczb zmiennoprzecinkowych`
+## `notacja liczb zmiennoprzecinkowych`
 
 naukowa 1e + 3 => 1 * 10^3, cecha i mantysa;
 
@@ -77,7 +77,7 @@ naukowa 1e + 3 => 1 * 10^3, cecha i mantysa;
 # https://chortle.ccsu.edu/assemblytutorial/Chapter-15/ass15_3.html
 - zupelnie odwrotna kolejnosc odczytu bitow
 
-### `reprezentacja zmiennej w pamieci `
+# `reprezentacja zmiennej w pamieci `
 *   deklarowanie zmiennych;
 - <typ> <nazwa> [wartosc][, <nazwa>...];
 - przyklady:

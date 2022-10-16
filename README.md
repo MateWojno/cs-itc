@@ -50,17 +50,25 @@
 
 # `typy zmiennych:`
 
-typ rozmiar opis
+*        typ        rozmiar           opis
 
--         int 4 bit liczby calkowite od -x do +x;
--         long 8 bit liczby calkowite wieksze;
--         float 4 bajty (32 bit) - liczby ulamkowe do 7 cyfr znaczacych
--         double 8 bajtow - liczby ulamkowe do 15 cyfr znaczacych
--         bool 1 bit - wartosc logiczna true false
--         char 2 bajty (16 bit) - jeden znak, - w dotnet to 2 bajty a nie 1;
--         string (2 bajty na znak - 16 bit) - sekwencje znakow (kody ASCII) 
+-         int       4 bit             liczby calkowite od -x do +x;
+-         long      8 bit             liczby calkowite wieksze;
+-         float     4 bajty (32 bit)  liczby ulamkowe do 7 cyfr znaczacych
+-         double    8 bajtow          liczby ulamkowe do 15 cyfr znaczacych
+-         bool      1 bit             wartosc logiczna true false
+-         char      2 bajty (16 bit)  jeden znak, - w dotnet to 2 bajty a nie 1;
+-         string    (2 bajty na znak - 16 bit) - sekwencje znakow (kody ASCII) 
 
 ### `notacja liczb zmiennoprzecinkowych`
 
 naukowa 1e + 3 => 1 * 10^3, cecha i mantysa;
 
+* slack - 90 days free data storage;
+
+
+# http://cygnus.tele.pw.edu.pl/olek/doc/syko/www/rozdzial3_1_1.html 
+<!-- ref -->
+
+* LSB   - least significant bite
+* MSB   - most significant bite

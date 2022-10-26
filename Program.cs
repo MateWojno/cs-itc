@@ -72,3 +72,12 @@ Console.WriteLine("Aby uruchomic dany program prosze usunac komentarze");
 //     Console.WriteLine(index);
 //     index--;
 // }
+
+// Console.WriteLine("Rozwiazanie zadania numer 6");
+// // Pseudo Code - while i >= 10 &&  i <= 99  && %2==0 && %5==0 wypisz i, i+=10 (2*5);
+// int index = 10;
+// while (index >= 10 && index <= 99 && index %2 ==0 && index % 5==0)
+// {
+//         Console.WriteLine(index);
+//         index+=10;
+// }

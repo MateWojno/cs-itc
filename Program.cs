@@ -46,3 +46,14 @@ Console.WriteLine("Aby uruchomic dany program prosze usunac komentarze");
 //     Console.WriteLine("Z tych odcinkow nie zbudujesz trojkata");
 // }
 
+
+
+// Pseudo Code - while i  >= 6 && != 22 wypisz i, i++
+// Console.WriteLine("Rozwiazanie zadania numer 3");
+
+// int index = 6;
+// while (index >=6 && index != 22)
+// {
+//     Console.WriteLine(index);
+//     index++;
+// }

@@ -5,6 +5,7 @@
 ## 4.Od kolejnych zajęć będziemy używali Github’a. 
 
 # Zadania
+
 ## 1.
 Napisz program, który w zależności od wieku podanego przez użytkownika wypisze komunikat: a.mniej niż 18 lat – jesteś za młody, b.od 18 do 70 lat – możesz wejść, c.ponad 70 lat – jesteś za stary. 
 ## 2.

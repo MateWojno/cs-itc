@@ -93,3 +93,18 @@ Console.WriteLine("Aby uruchomic dany program prosze usunac komentarze");
 //     }
 //         index++;
 // }
+
+// Console.WriteLine("Rozwiazanie zadania numer 8");
+// // Pseudo Code - while (!(i >= 0 && <= 100)) Console.WriteLine("Enter the number: ");
+// Console.WriteLine("Guess the number: ");
+// string index = Console.ReadLine();
+//  int intIndex = Convert.ToInt16(index);
+
+// while (intIndex <0 && intIndex > 100)
+// {
+//     Console.WriteLine("Guess the number: ");
+// }
+// if (intIndex >= 0 && intIndex <= 100)
+// {
+//     Console.WriteLine("Congratulations!");
+// }

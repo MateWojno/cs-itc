@@ -135,3 +135,26 @@ Console.WriteLine("Aby uruchomic dany program prosze usunac komentarze");
 //     }
 
 // }
+
+Console.WriteLine("Rozwiazanie zadania numer 10");
+// Pseudo Code: while (true = user don't want to quit) check if int is prime number and if it is true return YES
+// Prime number is divided by 1 and itself, 0 and 1 are not prime numbers; So prime number doesn't have int square root!
+
+int breakWhileLoop = 0;
+while (breakWhileLoop == 0)
+{
+    Console.WriteLine("This program checks if given number is the Prime Number, enter your number below or press 'q' to quit");
+    string primeNumber_str = Console.ReadLine();
+    if (primeNumber_str == "q" || primeNumber_str == "0" || primeNumber_str == "1") 
+    {
+        breakWhileLoop += 1;
+        Console.WriteLine("It is not a Prime Number, good bye then!");
+    }
+
+    int primeNumber = Convert.ToInt32(primeNumber_str);
+    while (primeNumber != 0 || primeNumber != 1)
+    {
+        
+    }
+
+} 

@@ -81,3 +81,15 @@ Console.WriteLine("Aby uruchomic dany program prosze usunac komentarze");
 //         Console.WriteLine(index);
 //         index+=10;
 // }
+
+// Console.WriteLine("Rozwiazanie zadania numer 7");
+// // Pseudo Code - while i >= 10 &&  i <= 99  && (i %10 + i/10)== 3 || (i %10 + i/10) == 7 wypisz liczbe i, i++;
+// int index = 10;
+// while (index >= 10 && index <= 99)
+// {
+// if (index %10 + index/10 == 3 || index %10 + index/10 == 7) 
+//     {
+//         Console.WriteLine(index);
+//     }
+//         index++;
+// }

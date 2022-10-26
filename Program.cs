@@ -56,12 +56,19 @@ Console.WriteLine("Aby uruchomic dany program prosze usunac komentarze");
 
 
 // Console.WriteLine("Rozwiazanie zadania numer 4");
-// // Pseudo Code -    while i >=12 && != 51 && %2==0 wypisz i, i+=2
+// // Pseudo Code -    while i >=12 && <= 50 && %2==0 wypisz i, i+=2
 // int index = 12;
-// while (index >=12 && index <=51 && index %2 == 0)
+// while (index >=12 && index <=50 && index %2 == 0)
 // {
 //     Console.WriteLine(index);
 //     index +=2;
 // }
     
- 
+// Console.WriteLine("Rozwiazanie zadania numer 5");
+// // Pseudo Code - while i <= 20 &&  i >= 5 wypisz i, i--;
+// int index = 20;
+// while (index <= 20 && index >= 5)
+// {
+//     Console.WriteLine(index);
+//     index--;
+// }

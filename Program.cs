@@ -24,6 +24,8 @@ Console.WriteLine("Aby uruchomic dany program prosze usunac komentarze");
 // } 
 
 
+
+
 // Console.WriteLine("Rozwiazanie zadania numer 2");
 // Console.WriteLine("Podaj pierwszy odcinek: ");
 //     string firstNum_str = Console.ReadLine();
@@ -35,7 +37,7 @@ Console.WriteLine("Aby uruchomic dany program prosze usunac komentarze");
 //     string thirdNum_str = Console.ReadLine();
 //     int thirdNum = Convert.ToInt16(thirdNum_str);
 
-// if (firstNum + secondNum < thirdNum)
+// if (firstNum + secondNum < thirdNum || secondNum + thirdNum > firstNum || firstNum + thirdNum > secondNum)
 // {
 //     Console.WriteLine("Z tych odcinkow mozna zbudowac trojkat");
 // }
@@ -43,3 +45,4 @@ Console.WriteLine("Aby uruchomic dany program prosze usunac komentarze");
 // {
 //     Console.WriteLine("Z tych odcinkow nie zbudujesz trojkata");
 // }
+

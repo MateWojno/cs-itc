@@ -3,7 +3,6 @@ Console.WriteLine("Aby uruchomic dany program prosze usunac komentarze");
 
 // Console.WriteLine("Rozwiazanie zadania numer 1");
 // Console.WriteLine("Aby zakonczyc dzialanie programu nacisnij ctrl+c w terminalu");
-
 // while (true)
 // {
 // Console.WriteLine("Podaj swoj wiek:");
@@ -24,8 +23,6 @@ Console.WriteLine("Aby uruchomic dany program prosze usunac komentarze");
 // } 
 
 
-
-
 // Console.WriteLine("Rozwiazanie zadania numer 2");
 // Console.WriteLine("Podaj pierwszy odcinek: ");
 //     string firstNum_str = Console.ReadLine();
@@ -36,7 +33,6 @@ Console.WriteLine("Aby uruchomic dany program prosze usunac komentarze");
 // Console.WriteLine("Podaj trzeci odcinek: ");
 //     string thirdNum_str = Console.ReadLine();
 //     int thirdNum = Convert.ToInt16(thirdNum_str);
-
 // if (firstNum + secondNum < thirdNum || secondNum + thirdNum > firstNum || firstNum + thirdNum > secondNum)
 // {
 //     Console.WriteLine("Z tych odcinkow mozna zbudowac trojkat");
@@ -57,3 +53,15 @@ Console.WriteLine("Aby uruchomic dany program prosze usunac komentarze");
 //     Console.WriteLine(index);
 //     index++;
 // }
+
+
+// Console.WriteLine("Rozwiazanie zadania numer 4");
+// // Pseudo Code -    while i >=12 && != 51 && %2==0 wypisz i, i+=2
+// int index = 12;
+// while (index >=12 && index <=51 && index %2 == 0)
+// {
+//     Console.WriteLine(index);
+//     index +=2;
+// }
+    
+ 

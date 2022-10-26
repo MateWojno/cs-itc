@@ -108,3 +108,30 @@ Console.WriteLine("Aby uruchomic dany program prosze usunac komentarze");
 // {
 //     Console.WriteLine("Congratulations!");
 // }
+
+
+
+// Console.WriteLine("Rozwiazanie zadania numer 9");
+// // Pseudo Code - while (break != true) ask for 2 int, add them and display output; Nested if loops inside to control while loop;
+// int breakWhileLoop = 0;
+// while (breakWhileLoop == 0)
+// {
+//     Console.WriteLine("Enter first number or type 'koniec' to quit");
+//     string firstNum_str = Console.ReadLine();
+//     string secondNum_str = firstNum_str;
+//     if (firstNum_str == "koniec" || secondNum_str == "koniec")
+//     {
+//         breakWhileLoop = 1; // variable to control loop
+//         Console.WriteLine("Good bye then!");
+//     }
+//     else 
+//     {
+//         Console.WriteLine("Enter your second number of type 'koniec' to quit");
+//         secondNum_str   = Console.ReadLine();
+//         int firstNum    = Convert.ToInt32(firstNum_str);
+//         int secondNum   = Convert.ToInt32(secondNum_str);
+//         Console.WriteLine("Sum of those number is: ");
+//         Console.WriteLine(firstNum+secondNum);
+//     }
+
+// }
